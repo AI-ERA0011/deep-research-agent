@@ -551,3 +551,4 @@ Supports:
 - [Ollama](https://ollama.com/) & [llama.cpp](https://github.com/ggerganov/llama.cpp) - Local models
 - [Google Gemini](https://ai.google.dev/) & [OpenAI](https://openai.com/) - Cloud APIs
 
+// update 2024-07-20 9:47:59
