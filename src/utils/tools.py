@@ -640,3 +640,4 @@ def get_research_tools(agent_type: str = "search") -> List:
         "all": all_research_tools
     }
     return tools_map.get(agent_type, research_search_tools)
+// update 2024-07-23 12:27:44
